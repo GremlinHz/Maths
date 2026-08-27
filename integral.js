@@ -10,4 +10,4 @@ const pi = (R, N) => {
   return area*4
 }
 
-console.log(pi(1, 1))
+console.log(pi(1, 100000000000))
